@@ -9,3 +9,7 @@ Stock website side project I took on to model paper trading.
 5. Run the command "flask run" and a local host link should be generated at the bottom of the terminal output. The line will start with "Running on [link]"
 6. Copy-paste the link into your browser
 7. Happy paper trading :)
+
+# To view (in case you're not interested in getting into the code and just want to see what it looks like!)
+1. Go into the folder _____
+2. For each piece of UI, there's a subfolder with screen caps at different stages of the UX
