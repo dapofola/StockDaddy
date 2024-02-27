@@ -1,0 +1,8 @@
+//I think you can paste in the below commands directly when opening the flask env, each time
+
+
+export FLASK_APP=application.py
+export FLASK_DEBUG=1
+export DATABASE_URL=postgres://ijctezmz:etHNN8rDt-FM6zVU_pEEA333_hYw8H_w@stampy.db.elephantsql.com/ijctezmz
+
+
