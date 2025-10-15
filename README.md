@@ -1,8 +1,8 @@
 # StockDaddy
 Stock website side project I took on to model paper trading.
 
-# To view (in case you're not interested in getting into the code and just want to see what it looks like!)
-1. Go into the folder screenshots
+# To view (in case you're not interested in getting into the code and just want to see what it looks like!):
+1. Go into the folder [screenshots]([https://github.com/dapofola/StockDaddy/tree/main/screenshots)
 2. For each piece of UI, there's a subfolder with screencaps at different stages of the UX
   
 # To run:
